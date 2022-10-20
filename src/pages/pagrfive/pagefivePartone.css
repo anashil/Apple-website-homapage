@@ -1,0 +1,25 @@
+.img-style-five-part-one{
+    width: 50%;
+    height: 20%;
+    padding-top: 2rem;
+}
+
+.style-five-part-one{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.a-item-five{
+    display: flex;
+    justify-items: column;
+
+}
+
+.item-five{
+    margin-left: 19rem;
+}
+
+.a-item-five{
+    font-weight: 500;
+    font-size: 1.2rem;
+}

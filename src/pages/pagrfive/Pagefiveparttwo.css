@@ -1,0 +1,11 @@
+.style-five-part-two{
+    background-color: black;
+    padding-right: 3rem;
+    width: 41rem;
+}
+
+.a-item-five-two{
+    display: flex;
+    justify-items: column;
+    margin-left: 14rem;
+}

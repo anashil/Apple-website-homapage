@@ -1,0 +1,44 @@
+
+.style-item{
+    display: flex;
+    justify-items: column;
+}
+
+.style-ipad{
+    margin-top: 12rem;
+    position: absolute;
+    right: 27rem;
+    font-size: 4rem;
+    font-weight: 500;
+    
+    
+}
+
+.style-link1{
+    display: flex;
+    justify-items: column;
+    margin-top: 22rem;
+    right: 22rem;
+    position: absolute;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.style-lovable{
+    margin-top: 17rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8rem;
+    position: absolute;
+    right: 19rem;
+    
+}
+
+.style-available{
+    margin-top: 20rem;
+    position: absolute;
+    right: 25rem;
+    color: rgb(92, 91, 89);
+    font-weight: bold;
+    font-size: 15px;
+}
+

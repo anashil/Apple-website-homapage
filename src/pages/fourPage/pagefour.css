@@ -1,0 +1,26 @@
+.style-page-four{
+    background-color: rgb(248, 247, 245);
+}
+.fourth-itrm-style{
+    margin-left: 15rem;
+    
+}
+
+.style-link-four{
+    display: flex;
+    justify-items: column;
+    margin-left: 37rem;
+    font-weight: 500;
+}
+
+ 
+
+.style-available-four{
+    position: absolute;
+    right: 21rem;
+}
+
+.first-item-four{
+    position: absolute;
+    left: 11rem;
+}

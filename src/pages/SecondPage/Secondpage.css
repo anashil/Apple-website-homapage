@@ -1,0 +1,51 @@
+.style-2nd{
+    margin-top: 1rem;
+    background-color: rgb(17, 6, 29);
+    display: flex;
+    justify-items: column;
+}
+
+.img-style{
+    
+    
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    padding-left: 4rem;
+
+}
+
+.items-style{
+    
+   padding-left: 10rem;
+   padding-top: 11rem;
+
+}
+
+.style-iphone{
+    font-size: 3rem;
+    color: white;
+    padding-left: 1.2rem;
+}
+
+.mini{
+    font-size: 1.5rem;
+    
+    color: rgb(177, 177, 169);
+}
+.style-available-second{
+    padding-left: 0.9rem;
+    font-size: 17px;
+    color: rgb(102, 99, 99);
+}
+
+
+
+.a-item{
+    display: flex;
+    justify-items: column;
+    font-weight: 500;
+    font-size: 17px;
+    justify-content:space-around(1px);
+    
+}
+
